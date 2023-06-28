@@ -70,3 +70,11 @@ mjx-container {
 mjx-container > svg {
   margin: auto;
 }
+
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+  --vp-c-brand-lighter: #a7abfb;
+  --vp-c-brand-dark: #3943fa;
+  --vp-c-brand-darker: #1925f9;
+}

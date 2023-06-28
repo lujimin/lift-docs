@@ -6,11 +6,11 @@ export const algoliaSearchOptions: AlgoliaSearchOptions = {
   indexName: 'charles7c',
   locales: {
     root: {
-      placeholder: '搜索文档',
+      placeholder: '搜索知识库',
       translations: {
         button: {
-          buttonText: '搜索文档',
-          buttonAriaLabel: '搜索文档'
+          buttonText: '搜索知识库',
+          buttonAriaLabel: '搜索知识库'
         },
         modal: {
           searchBox: {
