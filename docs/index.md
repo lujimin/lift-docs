@@ -1,19 +1,19 @@
 ---
 layout: home
 
-title: 高空车知识库
+title: 高空车手册
 titleTemplate: 高空车、剪叉车控制器知识库
 
 hero:
-  name: 高空车知识库
-  text: 专注 & 洞察 & 分享
-  tagline: 个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
+  name: 高空车手册
+  text: 
+  tagline: 为用户提供丰富的高空车资料和文档
   image:
     src: /logo.png
     alt: Logo
   actions:
     - theme: brand
-      text: 进入知识库
+      text: 进入手册
       link: /categories/issues/index
     - theme: alt
       text: 豪佩官网

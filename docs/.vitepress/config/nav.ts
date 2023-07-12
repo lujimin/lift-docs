@@ -2,7 +2,7 @@ import type { DefaultTheme } from 'vitepress';
 
 export const nav: DefaultTheme.Config['nav'] = [
   {
-    text: '我的分类',
+    text: '说明书',
     items: [
       { text: 'Bug万象集', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
       { text: '"杂碎"逆袭史', link: '/categories/fragments/index', activeMatch: '/categories/fragments/' },
